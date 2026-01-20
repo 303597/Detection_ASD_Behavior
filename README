@@ -1,1 +1,9 @@
-
+- Topic: Behavior Detection for Children with ASD from Continuous Videos
+- Details:
+- Select datasets from reference [1] or [2]. Both of them contain continuous, naturally captured videos of children with ASD.
+- Identify state-of-the-art model (conventional deep learning, vision-language models) for activity recognition using video or skeleton data.
+- Summarize the model’s performance across different aspects.
+- Summarize unique challenges or potential research problems for leveraging continuous video/sensor data for human behavior understanding.
+References:
+[1] Automated Analysis of Stereotypical Movements in Videos of Children With ASD
+[2] MMASD: A Multimodal Dataset for Autism Intervention Analysis
